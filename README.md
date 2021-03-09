@@ -1,3 +1,9 @@
+team: code-blooded
+hack-off 3.0
+1.swapnil mitra
+2.khushi Agarwal
+
+
 # Food-AR
 Its an augmented reality application which brings live the food items from a food menu.
 
